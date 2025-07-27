@@ -1,0 +1,25 @@
+Certainly! Here’s the explanation in the requested format:
+
+**1. Summarization**  
+**Difference:**  
+The refined prompt specifies the focus on “main ideas and key findings” and requests the summary in “simple language suitable for a high school student,” which helps generate a clearer, more relevant, and easier-to-understand summary than the more general initial prompt.
+
+**2. Rewriting**  
+**Difference:**  
+The refined prompt clarifies the desired output tone as “formal and academic” and instructs to keep the original meaning intact, guiding the model to rewrite with appropriate style without altering content, unlike the vague initial prompt.
+
+**3. Code Generation**  
+**Difference:**  
+The refined prompt asks for a specific algorithm (“merge sort”), emphasizes efficiency, and requests example input and output, producing a more precise, detailed, and practical code response than the basic initial prompt.
+
+**4. Role-Based Prompt**  
+**Difference:**  
+The refined prompt assigns the role “Data Scientist” and specifies to provide “three key insights, focusing on trends and anomalies,” which directs the AI to analyze the data professionally and produce focused results, as opposed to the generic initial prompt.
+
+**5. Structured Content Generation**  
+**Difference:**  
+The refined prompt explicitly requests a Markdown table format with defined columns (“Name, Lifespan, and Habitat”) and detailed content instructions, ensuring that the output is well-structured and usable, unlike the ambiguous instruction in the initial prompt.
+
+Let me know if you want me to add anything else!
+
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/84590578/d758f303-8a3c-4e1c-bd2f-ac2cb57f2cb7/Assignment3Chetna-pdf.pdf
